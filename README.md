@@ -1,29 +1,7 @@
-### Hi there 👋
-
-<!--
-**ajay-bj/ajay-bj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Devops
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-
-Hey there, *welcome to my GitHub world!* 👋 I'm **Rajaram Erraguntla**, but you can call me **Raj**. 
-
-I've spent more than **7+ years as a CloudOps Lead | AWS Enthusiast | DevOps Evangelist** and I'm really into AWS and DevOps. 🚀 Imagine me as a digital architect who crafts the realm of cloud technology. It's like I'm the one ensuring the backstage magic runs seamlessly for software development (that's the SDLC part), all while grooving to the beat of DevOps practices. 🕺
-
-I'm naturally skilled at solving problems. Think of me wielding a toolkit packed with specialized tools from Amazon Web Services (AWS) and the latest DevOps techniques. 🔧 With these tools, I engineer intelligent solutions to elevate our tech landscape. But here's something cool: I'm not just about the ordinary. I'm like an explorer venturing into the universe of open-source tools. They're akin to uncharted constellations in the sky, and I'm always thrilled to uncover new ones that illuminate our tech cosmos. ✨
-
-My journey revolves around devising ingenious solutions, embarking on AWS expeditions, and navigating uncharted territories in the open-source world. Together, these threads weave a tapestry of seamless operations. If technology were a masterpiece, I'd be the precise brushstrokes on the canvas of innovation! 🎨
-
+Hey there,👋 I'm Ajay Balaji 
+𝐔𝐩𝐬𝐤𝐢𝐥𝐥 ➡𝐖𝐨𝐫𝐤➡ 𝐄𝐚𝐭 ➡𝐒𝐥𝐞𝐞𝐩 🔄𝐑𝐞𝐩𝐞𝐚𝐭
+𝟏 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐚 𝐝𝐚𝐲 𝐞𝐪𝐮𝐚𝐥𝐬 𝟑𝟔𝟓 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 = 𝟔 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
 
 ## 🌱 Always Learning
 
@@ -37,10 +15,10 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 ## 🌐 You can connect with me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrajaram1)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamrajaram1)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamrajaram1)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:rajaram.erraguntla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-bj/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajay-bj)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ajay_bj_)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:ajaybj969@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CloudnLoud)
 
 </div>
