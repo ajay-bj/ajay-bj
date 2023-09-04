@@ -36,10 +36,7 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 
 
 ### 💻 Tech Stack: Expertise 🛠️
-
-Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tools I'm proficient with:
-
-                                                       
+                                                    
 ## Cloud-Native Skills
 
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)](https://www.docker.com/)
