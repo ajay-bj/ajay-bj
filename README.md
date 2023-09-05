@@ -29,12 +29,7 @@
   </a>
 </p>
   
-  
-
-## 𝐔𝐩𝐬𝐤𝐢𝐥𝐥 ➡𝐖𝐨𝐫𝐤➡ 𝐄𝐚𝐭 ➡𝐒𝐥𝐞𝐞𝐩 🔄𝐑𝐞𝐩𝐞𝐚𝐭
-## 𝟏 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐚 𝐝𝐚𝐲 𝐞𝐪𝐮𝐚𝐥𝐬 𝟑𝟔𝟓 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 = 𝟔 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
-
-## 🌱 Always Learning
+## 🌱 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 Learning
 
 I believe in the power of continuous learning and staying up-to-date with the latest industry trends. I'm committed to enhancing my skills in cloud technologies, automation, and DevOps practices.
 
