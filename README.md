@@ -1,11 +1,15 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆,👋 𝑰'𝒎 𝑨𝒋𝒂𝒚 𝑩𝒂𝒍𝒂𝒋𝒊
 <p float="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="70" height="70"/> 
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
