@@ -1,5 +1,9 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆,👋 𝑰'𝒎 𝑨𝒋𝒂𝒚 𝑩𝒂𝒍𝒂𝒋𝒊
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
 
 ## 𝐔𝐩𝐬𝐤𝐢𝐥𝐥 ➡𝐖𝐨𝐫𝐤➡ 𝐄𝐚𝐭 ➡𝐒𝐥𝐞𝐞𝐩 🔄𝐑𝐞𝐩𝐞𝐚𝐭
 ## 𝟏 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐚 𝐝𝐚𝐲 𝐞𝐪𝐮𝐚𝐥𝐬 𝟑𝟔𝟓 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 = 𝟔 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
