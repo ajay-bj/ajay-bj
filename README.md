@@ -29,16 +29,6 @@
   </a>
 </p>
   
-## 🌱 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 Learning
-
-I believe in the power of continuous learning and staying up-to-date with the latest industry trends. I'm committed to enhancing my skills in cloud technologies, automation, and DevOps practices.
-
-## 📬 Let's Connect
-
-Feel free to reach out to me for collaboration, discussions, or any queries related to CloudOps, AWS, DevOps, or technology in general.
-
-<div align="center">
-
 ## 🌐 You can connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-bj/)
