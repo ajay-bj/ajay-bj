@@ -45,14 +45,6 @@
 
 - :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
-## ☁️ Cloudnloud Community 2022 Free Programs
-
-🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
-
-- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
-
-<div align="center">
-
 ## AWS Cloud Zero to Hero Series  - 
 
 | AWS Topic | Video Link |
@@ -62,6 +54,4 @@
 | Python Tutorial: Create AWS IAM Users | IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
 | How to Create an IAM User: Step-by-Step Tutorial | AWS IAM Setup Guide |                            [Watch](https://www.youtube.com/watch?v=rxTwRaOc3ag&t=66s) |
 | AWS | How to create AWS budget | #aws |                                                             [Watch](https://www.youtube.com/watch?v=r2QQL01Hpg0) |
-
-
 </div>
