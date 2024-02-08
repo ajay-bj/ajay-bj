@@ -49,6 +49,7 @@
 
 | AWS Topic | Video Link |
 |---------|------------|
+| NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3 | [Watch](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s) |
 | Like Git? Versioning in storage?Hands-On Tutorial for Enabling S3 Versioning in AWS|[Watch](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s) |
 | Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3 |[Watch](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s) |
 | Python Tutorial: Create AWS IAM Users, IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
