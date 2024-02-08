@@ -50,6 +50,10 @@
 | AWS Topic | Video Link |
 |---------|------------|
 | NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3 | [Watch](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s) |
+| Disaster recovery plan ? S3 replication step-by step | [Watch](https://www.youtube.com/watch?v=dAcqmkmlNvs&t=184s) |
+| COST Cutting for clients ? = S3 Lifecycle Rules step-by-step | [Watch](https://www.youtube.com/watch?v=RUGlGGTcVw0&t=4s) |
+| Manage billions objects at scale with few clicks ? S3 Batch Operation step-by-step | [Watch](https://www.youtube.com/watch?v=x5qeX_Z3BFI&t=16s) |
+
 | Like Git? Versioning in storage?Hands-On Tutorial for Enabling S3 Versioning in AWS|[Watch](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s) |
 | Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3 |[Watch](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s) |
 | Python Tutorial: Create AWS IAM Users, IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
