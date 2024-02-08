@@ -50,8 +50,8 @@
 | AWS Topic | Video Link |
 |---------|------------|
 | Like Git? Versioning in storage?Hands-On Tutorial for Enabling S3 Versioning in AWS|[Watch](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s) |
-| Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive | AWS S3 |[Watch](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s) |
-| Python Tutorial: Create AWS IAM Users | IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
-| How to Create an IAM User: Step-by-Step Tutorial | AWS IAM Setup Guide |                            [Watch](https://www.youtube.com/watch?v=rxTwRaOc3ag&t=66s) |
-| AWS | How to create AWS budget | #aws |                                                             [Watch](https://www.youtube.com/watch?v=r2QQL01Hpg0) |
+| Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3 |[Watch](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s) |
+| Python Tutorial: Create AWS IAM Users, IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
+| How to Create an IAM User: Step-by-Step Tutorial, AWS IAM Setup Guide |                            [Watch](https://www.youtube.com/watch?v=rxTwRaOc3ag&t=66s) |
+| AWS | How to create AWS budget |                                                          [Watch](https://www.youtube.com/watch?v=r2QQL01Hpg0) |
 </div>
