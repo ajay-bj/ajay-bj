@@ -45,7 +45,7 @@
 
 - :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
-## YouTube - AWS Zero to Hero Series  - 
+# YouTube - AWS Zero to Hero Series:
 
 | AWS Topic | Video Link |
 |---------|------------|
