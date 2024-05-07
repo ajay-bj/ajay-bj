@@ -1,5 +1,5 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
-- 👋 𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆,Introducing Ajay Balaji, a seasoned AWS Cloud Engineer at Dwell Technologies Sdn. Bhd., boasting a solid 2-year track record in crafting and implementing scalable cloud solutions. Possessing a deep understanding of AWS services, Ajay consistently shares his expertise on platforms like LinkedIn, Medium, GitHub, and YouTube. He is also actively involved in contributing to CNCF, showcasing a strong commitment to knowledge-sharing and community engagement
+- 👋 𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆,As a Cloud & DevOps enthusiast with foundational hands-on experience and a passion for delivering simplified innovative solutions, I am actively engaged in sharing my expertise via LinkedIn, Medium, GitHub, and YouTube. Additionally, I contribute to the AWS community builder & CNCF, showcasing a strong commitment to knowledge-sharing and upskilling
 - 𝟏 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐚 𝐝𝐚𝐲 𝐞𝐪𝐮𝐚𝐥𝐬 𝟑𝟔𝟓 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 = 𝟔 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
 - 𝐔𝐩𝐬𝐤𝐢𝐥𝐥 ➡𝐖𝐨𝐫𝐤➡ 𝐄𝐚𝐭 ➡𝐒𝐥𝐞𝐞𝐩 🔄𝐑𝐞𝐩𝐞𝐚𝐭
 <p float="left">
