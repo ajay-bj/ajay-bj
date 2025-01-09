@@ -34,7 +34,7 @@
 
 ### 🏅 Certifications
 - **AWS Solutions Architect – Associate**
-<img src="https://github.com/ajay-bj/ajay-bj/raw/main/solution%20archetect%20badge.png" width="50"/>
+<img src="https://github.com/ajay-bj/ajay-bj/raw/main/solution%20archetect%20badge.png" width="150"/>
 
 
 
