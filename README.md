@@ -38,11 +38,37 @@
 
 
 ### 🎥 YouTube Videos
+# YouTube - AWS Zero to Hero Series:
+
+### AWS Topic Thumbnails with Links
+
 - **NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3**  
-  [![NETFLIX-Inspired Static Website](https://i.ytimg.com/an_webp/AgfP5xQBres/mqdefault_6s.webp?du=3000&sqp=CICh_bsG&rs=AOn4CLA66aMAZ-LXl2FcGV0velqTmSdqpg)](https://www.youtube.com/watch?v=AgfP5xQBres)
+  [![NETFLIX-Inspired Static Website](https://img.youtube.com/vi/AgfP5xQBres/0.jpg)](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s)
 
 - **Disaster Recovery Plan? S3 Replication Step-by-Step**  
-  [![Disaster Recovery Plan](https://img.youtube.com/vi/dAcqmkmlNvs/0.jpg)](https://www.youtube.com/watch?v=dAcqmkmlNvs)
+  [![Disaster Recovery Plan](https://img.youtube.com/vi/dAcqmkmlNvs/0.jpg)](https://www.youtube.com/watch?v=dAcqmkmlNvs&t=184s)
+
+- **COST Cutting for Clients? S3 Lifecycle Rules Step-by-Step**  
+  [![S3 Lifecycle Rules](https://img.youtube.com/vi/RUGlGGTcVw0/0.jpg)](https://www.youtube.com/watch?v=RUGlGGTcVw0&t=4s)
+
+- **Manage Billions of Objects at Scale with Few Clicks? S3 Batch Operation Step-by-Step**  
+  [![S3 Batch Operation](https://img.youtube.com/vi/x5qeX_Z3BFI/0.jpg)](https://www.youtube.com/watch?v=x5qeX_Z3BFI&t=16s)
+
+- **Like Git? Versioning in Storage? Hands-On Tutorial for Enabling S3 Versioning in AWS**  
+  [![S3 Versioning](https://img.youtube.com/vi/V4vM-lUofuo/0.jpg)](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s)
+
+- **Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3**  
+  [![Create Cloud Drive](https://img.youtube.com/vi/qk6FfFxFxv0/0.jpg)](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s)
+
+- **Python Tutorial: Create AWS IAM Users, IAM User Management**  
+  [![IAM User Management](https://img.youtube.com/vi/2VzkuHIU8lk/0.jpg)](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s)
+
+- **How to Create an IAM User: Step-by-Step Tutorial, AWS IAM Setup Guide**  
+  [![IAM Setup Guide](https://img.youtube.com/vi/rxTwRaOc3ag/0.jpg)](https://www.youtube.com/watch?v=rxTwRaOc3ag&t=66s)
+
+- **AWS: How to Create an AWS Budget**  
+  [![AWS Budget Setup](https://img.youtube.com/vi/r2QQL01Hpg0/0.jpg)](https://www.youtube.com/watch?v=r2QQL01Hpg0)
+
 
 
 ## 🌐 You can connect with me on
