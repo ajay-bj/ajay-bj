@@ -40,6 +40,12 @@
 ### 🎥 YouTube Videos
 # 🎥 YouTube - AWS Zero to Hero Series:
 
+### Dynamo DB - Series
+
+- **DynamoDB hands-on**  
+[![DynamoDB hands-on](https://img.youtube.com/vi/2qnkUajXezo/0.jpg)](https://www.youtube.com/watch?v=2qnkUajXezo&list=PLxpHK0RirxLDh7eixFDzpMn5fHQmM0igV)
+
+
 ### AWS RDS - zero to hero Playlist
 
 - **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
