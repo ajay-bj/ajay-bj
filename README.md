@@ -35,6 +35,16 @@
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws&logoColor=white)
 
 
+
+
+### 🎥 YouTube Videos
+- **NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3**  
+  [![NETFLIX-Inspired Static Website](https://i.ytimg.com/an_webp/AgfP5xQBres/mqdefault_6s.webp?du=3000&sqp=CICh_bsG&rs=AOn4CLA66aMAZ-LXl2FcGV0velqTmSdqpg)](https://www.youtube.com/watch?v=AgfP5xQBres)
+
+- **Disaster Recovery Plan? S3 Replication Step-by-Step**  
+  [![Disaster Recovery Plan](https://img.youtube.com/vi/dAcqmkmlNvs/0.jpg)](https://www.youtube.com/watch?v=dAcqmkmlNvs)
+
+
 ## 🌐 You can connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-bj/)
