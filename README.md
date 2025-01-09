@@ -30,14 +30,12 @@
   </a>
 </p>
   
+
+
 ### 🏅 Certifications
 - **AWS Solutions Architect – Associate**
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws&logoColor=white)
+<img src="https://github.com/ajay-bj/ajay-bj/raw/main/solution%20archetect%20badge.png" width="50"/>
 
-# 🏅 Certifications
-
-- **AWS Solutions Architect – Associate**
-![AWS Certified Solutions Architect – Associate](https://github.com/ajay-bj/ajay-bj/raw/main/solution%20archetect%20badge.png)
 
 
 
