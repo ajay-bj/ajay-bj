@@ -45,6 +45,10 @@
 - **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
 [![Amazon Aurora](https://img.youtube.com/vi/Ztl97Vhu-B4/0.jpg)](https://www.youtube.com/watch?v=Ztl97Vhu-B4)
 
+- **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 2**  
+[![Amazon Aurora](https://img.youtube.com/vi/Lzx9IUVaBXY/0.jpg)](https://www.youtube.com/watch?v=Lzx9IUVaBXY&t=8s)
+
+
 
 
 ### S3 zero to hero Playlist 
