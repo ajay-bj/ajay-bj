@@ -39,8 +39,7 @@
 
 # 🎥 YouTube - AWS Zero to Hero Series:
 
-### S3 zero to hero Playlist  
-[Watch the Playlist here](https://www.youtube.com/watch?v=qk6FfFxFxv0&list=PLxpHK0RirxLA7dzD-qaKV1hcAnEfj0oFg)
+### S3 zero to hero Playlist  [Watch the Playlist here](https://www.youtube.com/watch?v=qk6FfFxFxv0&list=PLxpHK0RirxLA7dzD-qaKV1hcAnEfj0oFg)
 
 
 - **S3 In One Shot with Projects**  
@@ -79,8 +78,7 @@
 
 
 
-### AWS RDS - zero to hero Playlist  
-[Watch the Playlist here](https://www.youtube.com/watch?v=u6OkMW0Ub3M&list=PLxpHK0RirxLCu_BpEoaJ3vKp--FAHwZ7g)
+### AWS RDS - zero to hero Playlist  [Watch the Playlist here](https://www.youtube.com/watch?v=u6OkMW0Ub3M&list=PLxpHK0RirxLCu_BpEoaJ3vKp--FAHwZ7g)
 
 
 - **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
@@ -129,17 +127,5 @@
 
 - :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
-# YouTube - AWS Zero to Hero Series:
 
-| AWS Topic | Video Link |
-|---------|------------|
-| NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3 | [Watch](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s) |
-| Disaster recovery plan ? S3 replication step-by step | [Watch](https://www.youtube.com/watch?v=dAcqmkmlNvs&t=184s) |
-| COST Cutting for clients ? = S3 Lifecycle Rules step-by-step | [Watch](https://www.youtube.com/watch?v=RUGlGGTcVw0&t=4s) |
-| Manage billions objects at scale with few clicks ? S3 Batch Operation step-by-step | [Watch](https://www.youtube.com/watch?v=x5qeX_Z3BFI&t=16s) |
-| Like Git? Versioning in storage?Hands-On Tutorial for Enabling S3 Versioning in AWS|[Watch](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s) |
-| Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3 |[Watch](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s) |
-| Python Tutorial: Create AWS IAM Users, IAM User Management |                                       [Watch](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s) |
-| How to Create an IAM User: Step-by-Step Tutorial, AWS IAM Setup Guide |                            [Watch](https://www.youtube.com/watch?v=rxTwRaOc3ag&t=66s) |
-| AWS, How to create AWS budget |                                                          [Watch](https://www.youtube.com/watch?v=r2QQL01Hpg0) |
 </div>
