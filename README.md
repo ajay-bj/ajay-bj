@@ -42,8 +42,8 @@
 
 ### AWS RDS - zero to hero Playlist
 
-- **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
-  [![Aurora MySQL DB with WordPress](https://img.youtube.com/vi/u6OkMW0Ub3M/0.jpg)](https://www.youtube.com/watch?v=u6OkMW0Ub3M&list=PLxpHK0RirxLCu_BpEoaJ3vKp--FAHwZ7g)
+**Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
+[![Amazon Aurora](https://img.youtube.com/vi/Ztl97Vhu-B4/0.jpg)](https://www.youtube.com/watch?v=Ztl97Vhu-B4)
 
 
 
