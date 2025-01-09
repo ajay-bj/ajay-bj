@@ -31,8 +31,9 @@
 </p>
   
 ### 🏅 Certifications
-- **AWS Solutions Architect – Associate**  
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect-Associate_512x512.d7cda9deacbd312b9436c0705f96b06c2bd6205a.png" alt="AWS Certified Solutions Architect – Associate" width="120">
+- **AWS Solutions Architect – Associate**
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws&logoColor=white)
+
 
 ## 🌐 You can connect with me on
 
