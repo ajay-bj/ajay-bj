@@ -40,7 +40,11 @@
 ### 🎥 YouTube Videos
 # YouTube - AWS Zero to Hero Series:
 
-### AWS Topic Thumbnails with Links
+### S3 zero to hero Playlist 
+
+- **S3 In One Shot with Projects**  
+  [![S3 In One Shot](https://img.youtube.com/vi/Gc-vfODy9N8/0.jpg)](https://www.youtube.com/watch?v=Gc-vfODy9N8&t=13s)
+
 
 - **NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3**  
   [![NETFLIX-Inspired Static Website](https://img.youtube.com/vi/AgfP5xQBres/0.jpg)](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s)
