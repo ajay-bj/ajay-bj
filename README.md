@@ -48,6 +48,16 @@
 - **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 2**  
 [![Amazon Aurora](https://img.youtube.com/vi/Lzx9IUVaBXY/0.jpg)](https://www.youtube.com/watch?v=Lzx9IUVaBXY&t=8s)
 
+- **Connecting MySQL with EC2 Tutorial | RDS | AWS Relational Database Service**  
+[![Connecting MySQL with EC2](https://img.youtube.com/vi/5rjm5rlwVJA/0.jpg)](https://www.youtube.com/watch?v=5rjm5rlwVJA&t=33s)
+
+- **AWS Relational Database Service | MySQL Tutorial: creation, snapshot, read replicas | RDS**  
+[![AWS Relational Database Service](https://img.youtube.com/vi/u6OkMW0Ub3M/0.jpg)](https://www.youtube.com/watch?v=u6OkMW0Ub3M)
+
+
+
+
+
 
 
 
