@@ -37,8 +37,37 @@
 
 
 
-### 🎥 YouTube Videos
 # 🎥 YouTube - AWS Zero to Hero Series:
+
+### S3 zero to hero Playlist  
+[Watch the Playlist here](https://www.youtube.com/watch?v=qk6FfFxFxv0&list=PLxpHK0RirxLA7dzD-qaKV1hcAnEfj0oFg)
+
+
+- **S3 In One Shot with Projects**  
+  [![S3 In One Shot](https://img.youtube.com/vi/Gc-vfODy9N8/0.jpg)](https://www.youtube.com/watch?v=Gc-vfODy9N8&t=13s)
+
+
+- **Disaster Recovery Plan? S3 Replication Step-by-Step**  
+  [![Disaster Recovery Plan](https://img.youtube.com/vi/dAcqmkmlNvs/0.jpg)](https://www.youtube.com/watch?v=dAcqmkmlNvs&t=184s)
+
+- **COST Cutting for Clients? S3 Lifecycle Rules Step-by-Step**  
+  [![S3 Lifecycle Rules](https://img.youtube.com/vi/RUGlGGTcVw0/0.jpg)](https://www.youtube.com/watch?v=RUGlGGTcVw0&t=4s)
+
+- **Manage Billions of Objects at Scale with Few Clicks? S3 Batch Operation Step-by-Step**  
+  [![S3 Batch Operation](https://img.youtube.com/vi/x5qeX_Z3BFI/0.jpg)](https://www.youtube.com/watch?v=x5qeX_Z3BFI&t=16s)
+
+- **Like Git? Versioning in Storage? Hands-On Tutorial for Enabling S3 Versioning in AWS**  
+  [![S3 Versioning](https://img.youtube.com/vi/V4vM-lUofuo/0.jpg)](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s)
+
+- **Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3**  
+  [![Create Cloud Drive](https://img.youtube.com/vi/qk6FfFxFxv0/0.jpg)](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s)
+
+- **NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3**  
+  [![NETFLIX-Inspired Static Website](https://img.youtube.com/vi/AgfP5xQBres/0.jpg)](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s)
+
+
+
+
 
 ### Dynamo DB - Series
 
@@ -46,7 +75,13 @@
 [![DynamoDB hands-on](https://img.youtube.com/vi/2qnkUajXezo/0.jpg)](https://www.youtube.com/watch?v=2qnkUajXezo&list=PLxpHK0RirxLDh7eixFDzpMn5fHQmM0igV)
 
 
-### AWS RDS - zero to hero Playlist
+
+
+
+
+### AWS RDS - zero to hero Playlist  
+[Watch the Playlist here](https://www.youtube.com/watch?v=u6OkMW0Ub3M&list=PLxpHK0RirxLCu_BpEoaJ3vKp--FAHwZ7g)
+
 
 - **Amazon Aurora | Creating Aurora MySQL DB | Deploying it with WordPress | Part - 1**  
 [![Amazon Aurora](https://img.youtube.com/vi/Ztl97Vhu-B4/0.jpg)](https://www.youtube.com/watch?v=Ztl97Vhu-B4)
@@ -65,31 +100,7 @@
 
 
 
-
-
-### S3 zero to hero Playlist 
-
-- **S3 In One Shot with Projects**  
-  [![S3 In One Shot](https://img.youtube.com/vi/Gc-vfODy9N8/0.jpg)](https://www.youtube.com/watch?v=Gc-vfODy9N8&t=13s)
-
-
-- **NETFLIX-Inspired Static Website: Step-by-Step Guide to Host-S3**  
-  [![NETFLIX-Inspired Static Website](https://img.youtube.com/vi/AgfP5xQBres/0.jpg)](https://www.youtube.com/watch?v=AgfP5xQBres&t=1s)
-
-- **Disaster Recovery Plan? S3 Replication Step-by-Step**  
-  [![Disaster Recovery Plan](https://img.youtube.com/vi/dAcqmkmlNvs/0.jpg)](https://www.youtube.com/watch?v=dAcqmkmlNvs&t=184s)
-
-- **COST Cutting for Clients? S3 Lifecycle Rules Step-by-Step**  
-  [![S3 Lifecycle Rules](https://img.youtube.com/vi/RUGlGGTcVw0/0.jpg)](https://www.youtube.com/watch?v=RUGlGGTcVw0&t=4s)
-
-- **Manage Billions of Objects at Scale with Few Clicks? S3 Batch Operation Step-by-Step**  
-  [![S3 Batch Operation](https://img.youtube.com/vi/x5qeX_Z3BFI/0.jpg)](https://www.youtube.com/watch?v=x5qeX_Z3BFI&t=16s)
-
-- **Like Git? Versioning in Storage? Hands-On Tutorial for Enabling S3 Versioning in AWS**  
-  [![S3 Versioning](https://img.youtube.com/vi/V4vM-lUofuo/0.jpg)](https://www.youtube.com/watch?v=V4vM-lUofuo&t=7s)
-
-- **Unlocking Free Storage on AWS: Tutorial to Create Your Own Cloud Drive Like Google Drive, AWS S3**  
-  [![Create Cloud Drive](https://img.youtube.com/vi/qk6FfFxFxv0/0.jpg)](https://www.youtube.com/watch?v=qk6FfFxFxv0&t=7s)
+### other aws videos 
 
 - **Python Tutorial: Create AWS IAM Users, IAM User Management**  
   [![IAM User Management](https://img.youtube.com/vi/2VzkuHIU8lk/0.jpg)](https://www.youtube.com/watch?v=2VzkuHIU8lk&t=49s)
