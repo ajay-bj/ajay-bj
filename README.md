@@ -1,6 +1,6 @@
 # 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 - 👋 𝑯𝒆𝒚 𝒕𝒉𝒆𝒓𝒆,
-- As a Cloud & DevOps enthusiast with foundational hands-on experience and a passion for delivering simplified innovative solutions, I am actively engaged in sharing my expertise via LinkedIn, Medium, GitHub, and YouTube. Additionally, I contribute to the AWS community builder & CNCF, showcasing a strong commitment to knowledge-sharing and upskilling
+- As a Cloud & Devops - Trainee Engineer with foundational hands-on experience and a passion for delivering simplified innovative solutions, I am actively engaged in sharing my expertise via LinkedIn, Medium, GitHub, and YouTube. Additionally, I contribute to the AWS community builder & CNCF, showcasing a strong commitment to knowledge-sharing and upskilling
 - 𝟏 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐚 𝐝𝐚𝐲 𝐞𝐪𝐮𝐚𝐥𝐬 𝟑𝟔𝟓 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 = 𝟔 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
 - 𝐔𝐩𝐬𝐤𝐢𝐥𝐥 ➡𝐖𝐨𝐫𝐤➡ 𝐄𝐚𝐭 ➡𝐒𝐥𝐞𝐞𝐩 🔄𝐑𝐞𝐩𝐞𝐚𝐭
 <p float="left">
@@ -30,6 +30,10 @@
   </a>
 </p>
   
+### 🏅 Certifications
+- **AWS Solutions Architect – Associate**  
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect-Associate_512x512.d7cda9deacbd312b9436c0705f96b06c2bd6205a.png" alt="AWS Certified Solutions Architect – Associate" width="120">
+
 ## 🌐 You can connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-bj/)
